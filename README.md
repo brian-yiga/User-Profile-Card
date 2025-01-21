@@ -1,4 +1,4 @@
-#User Profile Card
+# User Profile Card
 
 A React-based User Profile Card component that displays user information such as name, age, title, location, skills, and hobbies. The component also includes a button to toggle the user's online status between "Online" and "Offline".
 
